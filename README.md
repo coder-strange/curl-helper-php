@@ -22,3 +22,4 @@ There will be two index in $result, 1. "body" which is json encoded format (if a
 
 
 
+Make sure that CURL is installed and Enabled.
